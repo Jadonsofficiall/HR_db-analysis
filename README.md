@@ -5,8 +5,8 @@ Analysis on synthetic hr database.
 -- Creating the schema
 CREATE SCHEMA `hr_db`;
 
--- Creaating tables for the hr_db
-USE hr_db;
+-- Creating tables for the hr_db
+USE `hr_db`;
 
 CREATE TABLE biodata (
   emp_id          VARCHAR(10)  PRIMARY KEY,
