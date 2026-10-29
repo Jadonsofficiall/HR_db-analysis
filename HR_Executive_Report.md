@@ -20,7 +20,7 @@
 
 **Priority actions:** (1) review Operations' pay, development and performance plan; (2) check pay decisions for the Below-rated IT employee.
 
-
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/02_average_kpi_by_department.png)
 
 \---
 
@@ -55,7 +55,7 @@
 
 Sales and Operations each have four employees. Finance, HR, IT and Marketing each have three. Gender is balanced at 10 and 10. HR and Marketing are all female; Operations and IT are all male.
 
-!\[Headcount by department and gender](charts/1\_headcount\_by\_department.png)
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/05_gender_composition_by_department.png)
 
 
 
@@ -74,7 +74,7 @@ Average net pay by department (Q6):
 
 Marketing has the highest average KPI (84.7) yet sits in the middle for pay. Finance is the highest-paid department and also one of the strongest on performance. Operations has the lowest average KPI (66.0) and the lowest average training load (9.5 hours) of any department.
 
-!\[Average net pay by department](charts/2\_avg\_net\_pay\_by\_department.png)
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/03_average_net_pay_by_department.png)
 
 
 
@@ -91,9 +91,9 @@ The ratings line up with training hours in a clear step pattern (Q8 and the rati
 
 The correlation between KPI score and training hours is 0.96. This is very strong. It may reflect how the data was recorded rather than a causal link, so it should be treated as an association. The Exceeds group (7 employees) is the largest high-performing group and is the most useful target for development investment.
 
-!\[Rating distribution and training hours](charts/3\_rating\_and\_training.png)
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/01_performance_rating_distribution.png)
 
-!\[KPI score vs training hours](charts/4\_kpi\_vs\_training.png)
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/04_training_vs_kpi.png)
 
 
 
@@ -110,7 +110,7 @@ Average pay rises with rating, but the spread within each rating is wide:
 
 The clearest mismatch is the IT employee rated Below (David Ifeanyi, KPI 61, 8 training hours), who earns ₦357,000. That is above the Meets average (₦285,125) and above the Exceeds average (₦336,857). Pay correlates moderately with training (0.69) and KPI (0.64), and the Below group's average (₦273,667) is close to the Meets group's average.
 
-!\[Net pay by rating](charts/5\_net\_pay\_by\_rating.png)
+![](https://github.com/Jadonsofficiall/HR_db-analysis/blob/main/06_net_pay_distribution.png)
 
 
 
